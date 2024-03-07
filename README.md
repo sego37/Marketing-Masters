@@ -45,4 +45,8 @@ to prevent any bugging.
 ```
 /Users/derek/bootcamp/Marketing-Masters/index.html
 ```
-  
+
+## ScreenShot Of Finished Product 
+
+![Screenshot 2024-03-07 at 2 20 41 PM](https://github.com/sego37/Marketing-Masters/assets/63138641/b816e1c0-1c6a-417d-9a1d-d5e2752da7cd)
+
